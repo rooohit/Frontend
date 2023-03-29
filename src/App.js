@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js\\</code> and save to reload.
-          Using Build from local testing for sync file
+          Testing for continuous Integration and continuous Deployment
         </p>
         <a
           className="App-link"
