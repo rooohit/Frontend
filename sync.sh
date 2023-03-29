@@ -7,7 +7,7 @@ if [ ${#gstatus} -ne 0 ]
 then
 
 	git add --all
-	git commit -m "Automated sync: $gstatus"
+	git commit -m "Automated sync: $gstatus:$1"
 	git pull --rebase
 	git push
 
