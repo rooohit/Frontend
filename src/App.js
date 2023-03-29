@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js\\</code> and save to reload.
-          Using Build from local And on Google cloud platform
+          Using Build from local And on Google cloud platform using jenkins and github
         </p>
         <a
           className="App-link"
