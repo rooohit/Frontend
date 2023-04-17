@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js\\</code> and save to reload.
-          Testing for continuous Integration as Deployment. Trying for the second time.
+          HI Bro you can do it.
         </p>
         <a
           className="App-link"
