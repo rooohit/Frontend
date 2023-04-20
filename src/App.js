@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js\\</code> and save to reload.
-          HI Bro you can will do it.
+          April will be the month for interview
         </p>
         <a
           className="App-link"
