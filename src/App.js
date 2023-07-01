@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React checking for branch test
+          checking for declarative pipeline
         </a>
       </header>
     </div>
