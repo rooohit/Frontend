@@ -15,8 +15,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          checking for declarative pipeline hi
+          checking for declarative pipleline hi
         </a>
       </header>
     </div>
