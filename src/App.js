@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js\\</code> and save to reload.
           April will be the month for interview
         </p>
-        <a
+        <a>
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
